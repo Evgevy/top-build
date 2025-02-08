@@ -4354,6 +4354,7 @@ button,
 
 .merit__box:hover .merit__image {
   left: 5%;
+  filter: blur(30px);
 }
 
 .merit__box:hover .merit__num span {
