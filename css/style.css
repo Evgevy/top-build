@@ -5134,6 +5134,10 @@ button,
 }
 
 @media (max-width: 419px) {
+  .merit__box:hover .merit__image {
+    left: 10%;
+  }
+
   .merit__box {
     -webkit-box-pack: start;
     -ms-flex-pack: start;
