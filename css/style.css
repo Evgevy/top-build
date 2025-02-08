@@ -4401,9 +4401,11 @@ button,
 }
 
 .merit__info-img img {
+  backdrop-filter: blur(30px);
   width: 350px;
   height: 350px;
   opacity: 0.5;
+  border-radius: 50%;
 }
 
 .merit__info {
