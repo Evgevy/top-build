@@ -4395,7 +4395,9 @@ button,
   width: 350px;
   height: 350px;
   backdrop-filter: blur(30px);
+  background: rgba(255, 255, 255, 0);
   border-radius: 50%;
+  opacity: 1;
 }
 
 .merit__info-img img {
