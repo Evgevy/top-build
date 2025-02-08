@@ -4354,6 +4354,7 @@ button,
 
 .merit__box:hover .merit__image {
   left: 5%;
+  -webkit-filter: blur(30px);
   filter: blur(30px);
 }
 
@@ -4393,7 +4394,6 @@ button,
   z-index: -1;
   width: 350px;
   height: 350px;
-  -webkit-backdrop-filter: blur(30px);
   backdrop-filter: blur(30px);
   border-radius: 50%;
 }
